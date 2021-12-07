@@ -1,11 +1,5 @@
 # interiorshop
 
-This repository is a part of a video tutorial on my YouTube channel: Code With Stein
+🔗 http://kata.pythonanywhere.com/
 
-## YouTube
-
-[YouTube playlist](https://www.youtube.com/watch?v=jmc0gV6_NE0&list=PLpyspNLjzwBkeyP_4_bZBdtRjZQreDR_H)
-
-## Website
-
-[Code With Stein - Website](https://codewithstein.com)
+![interiorshop](https://user-images.githubusercontent.com/83788662/142291446-4de7054b-0ecd-422f-98d7-41ee3ca5a854.jpg)
